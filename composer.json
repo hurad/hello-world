@@ -1,0 +1,25 @@
+{
+    "name": "hurad/hello-world",
+    "description": "Hurad Hello World Plugin",
+    "type": "hurad-plugin",
+    "keywords": ["Hurad", "Hello World", "plugin", "example", "demo"],
+    "homepage": "https://github.com/hurad/hello-world",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hurad Community",
+            "homepage": "https://github.com/hurad/hello-world/graphs/contributors"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/hurad/hello-world/issues",
+        "source": "https://github.com/hurad/hello-world"
+    },
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "*"
+    },
+    "extra": {
+        "installer-name": "HelloWorld"
+    }
+}

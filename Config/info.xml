@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <name>Hello World</name>
+    <plugin_uri>https://github.com/hurad/hello-world</plugin_uri>
+    <description>Example plugin for demonstrating plugin API.</description>
+    <version>0.1.0</version>
+    <author>Hurad Community</author>
+    <author_uri>https://github.com/hurad/hello-world/graphs/contributors</author_uri>
+    <license>MIT</license>
+</plugin>
