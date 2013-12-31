@@ -2,10 +2,13 @@
 
 <plugin>
     <name>Hello World</name>
-    <plugin_uri>https://github.com/hurad/hello-world</plugin_uri>
+    <url>https://github.com/hurad/hello-world</url>
     <description>Example plugin for demonstrating plugin API.</description>
     <version>0.1.0</version>
-    <author>Hurad Community</author>
-    <author_uri>https://github.com/hurad/hello-world/graphs/contributors</author_uri>
+    <tags>Hurad, Plugins, Demo</tags>
+    <author>
+        <name>Hurad Community</name>
+        <url>https://github.com/hurad/hello-world/graphs/contributors</url>
+    </author>
     <license>MIT</license>
 </plugin>
