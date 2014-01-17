@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Class HelloController
+ */
 class HelloController extends HelloWorldAppController
 {
 
@@ -13,9 +16,6 @@ class HelloController extends HelloWorldAppController
 
     public function admin_index()
     {
-        $this->set('title_for_layout', __('Hello World'));
+        $this->set('title_for_layout', __d('hello_world', 'Hello World'));
     }
-
 }
-
-?>

@@ -1,9 +1,7 @@
 <?php
 
 /**
- * Description of HelloModel
- *
- * @author mohammad
+ * Class HelloModel
  */
 class HelloModel extends HelloWorldAppModel
 {
