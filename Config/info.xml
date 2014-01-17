@@ -4,7 +4,7 @@
     <name>Hello World</name>
     <url>https://github.com/hurad/hello-world</url>
     <description>Example plugin for demonstrating plugin API.</description>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <tags>Hurad, Plugins, Demo</tags>
     <author>
         <name>Hurad Community</name>

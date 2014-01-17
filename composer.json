@@ -3,6 +3,7 @@
     "description": "Hurad Hello World Plugin",
     "type": "hurad-plugin",
     "keywords": ["Hurad", "Hello World", "plugin", "example", "demo"],
+    "version": "0.1.1",
     "homepage": "https://github.com/hurad/hello-world",
     "license": "MIT",
     "authors": [
